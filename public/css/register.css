@@ -1,0 +1,40 @@
+body {
+    font-family: 'Aria'}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, rgb(102, 240, 114), #000000);
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+h6 {
+    color: #dc3545;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: rgb(102, 240, 114);
+    color: #fff;
+    font-size: 150%;
+    font-weight: bold;
+    cursor: pointer;
+}
